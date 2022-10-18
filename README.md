@@ -1,2 +1,2 @@
-# dba_scripts
-Oracle DBA scripts
+# db_scripts
+Oracle DB scripts
